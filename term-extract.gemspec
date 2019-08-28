@@ -10,7 +10,6 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["rattle"]
   s.date = %q{2011-06-03}
-  s.default_executable = %q{term-extract}
   s.email = %q{robl@rjlee.net}
   s.executables = ["term-extract"]
   s.extra_rdoc_files = [
